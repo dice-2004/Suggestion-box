@@ -7,5 +7,6 @@ Flaskで作成したフォームからnotion APIを用いてnotionのデータ�
 
 ## 技術スタック
 - Python
+  - Flask
 - notionAPI
-- Flask
+- Docker
